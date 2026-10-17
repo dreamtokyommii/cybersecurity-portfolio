@@ -1,0 +1,14 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
+
+# Never commit secrets or raw captures
+*.pcap
+*.pcapng
+*.key
+*.pem
+.env
