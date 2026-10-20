@@ -15,7 +15,7 @@ Blue-team focused, hands-on labs in intrusion detection, SIEM, network security 
 | 06 | [NAT/PAT with DHCP LAN](06-cisco-nat-pat-dhcp-lab/) | Routing, NAT, DHCP | Packet Tracer, IOS |
 | 07 | [Suricata Deployment & Validation](07-suricata-ids-deployment-and-validation/) | Network IDS | Suricata, Nmap, hping3, tcpdump |
 | 08 | [SSH & DDoS Protection (Hackathon)](08-ssh-ddos-protection-hackathon/) | Layered detection and response | Suricata, Fail2Ban, UFW |
-
+| 09 | [Ever Recover: File Recovery & Forensics Tool](https://github.com/dreamtokyommii/ever-recover) | Digital forensics | Python, PyQt6, pytest |
 ## Skills demonstrated by the projects
 - **Detection & response:** Fail2Ban custom filters and jails, Suricata deployment and rules, automated UFW/iptables blocking
 - **SIEM & logging:** TShark field extraction, Splunk Universal Forwarder, `inputs.conf`, index/sourcetype design, Search UI
